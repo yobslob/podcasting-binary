@@ -47,7 +47,7 @@ export function Navbar() {
       {/* Left: Logo */}
       <div style={{ flex: 1, display: "flex", justifyContent: "flex-start" }}>
         <Link
-          href="/"
+          href="https://binarygrowth.org"
           style={{
             display: "flex",
             alignItems: "center",
