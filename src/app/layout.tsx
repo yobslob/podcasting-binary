@@ -22,22 +22,22 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Extended Portfolio | Binary Growth",
+  title: "Podcasting | Binary Growth",
   description:
     "Explore our podcast production, editing, and distribution strategy showcases. Premium media production and growth case studies.",
   keywords:
     "podcast production, video editing, media distribution, portfolio, creator economy, brand strategy, post production",
   openGraph: {
-    title: "Extended Portfolio | Binary Growth",
+    title: "Podcasting | Binary Growth",
     description:
       "Explore our podcast production, editing, and distribution strategy showcases. Premium media production and growth case studies.",
     type: "website",
-    url: "https://www.binarygrowth.com/services/podcasting",
+    url: "https://binarygrowth.org/podcasting",
     siteName: "Binary Growth",
     locale: "en_US",
     images: [
       {
-        url: "https://www.binarygrowth.com/white_logo.png",
+        url: "https://binarygrowth.org/white_logo.png",
         width: 800,
         height: 800,
         alt: "Binary Growth Logo",
@@ -46,10 +46,10 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Extended Portfolio | Binary Growth",
+    title: "Podcasting | Binary Growth",
     description:
       "Explore our podcast production, editing, and distribution strategy showcases.",
-    images: ["https://www.binarygrowth.com/white_logo.png"],
+    images: ["https://binarygrowth.org/white_logo.png"],
   },
   icons: {
     icon: "/white_logo.png",
@@ -63,7 +63,7 @@ const jsonLdData = {
   "provider": {
     "@type": "Organization",
     "name": "Binary Growth",
-    "url": "https://www.binarygrowth.com"
+    "url": "https://binarygrowth.org"
   },
   "description": "Premium podcast production, master editing, guest research, packaging, and distribution services for creators and brands.",
   "areaServed": "Worldwide"

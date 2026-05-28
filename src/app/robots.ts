@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://www.binarygrowth.com/services/podcasting/sitemap.xml",
+    sitemap: "https://binarygrowth.org/podcasting/sitemap.xml",
   };
 }

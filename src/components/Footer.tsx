@@ -6,14 +6,14 @@ import { useTheme } from "next-themes";
 
 const footerLinks = {
   Services: [
-    { label: "Podcasting", href: "#services" },
-    { label: "Brand Launch Videos", href: "#services" },
-    { label: "Content Clipping", href: "#services" },
+    { label: "Podcasting", href: "https://binarygrowth.org/podcasting" },
+    { label: "Brand Launch Videos", href: "https://binarygrowth.org/launch-videos" },
+    { label: "Content Clipping", href: "https://binarygrowth.org/clipping" },
   ],
   Company: [
-    { label: "About Us", href: "#about" },
-    { label: "Our Work", href: "#work" },
-    { label: "Case Studies", href: "#work" },
+    { label: "About Us", href: "https://binarygrowth.org/#about" },
+    { label: "Our Work", href: "https://binarygrowth.org/#work" },
+    { label: "Case Studies", href: "https://binarygrowth.org/#work" },
   ],
 };
 
@@ -187,14 +187,7 @@ export function Footer() {
           >
             Cookie Policy
           </button>
-          <button
-            onClick={() => typeof window !== "undefined" && window.dispatchEvent(new CustomEvent("open-stats-dashboard"))}
-            style={{ background: "none", border: "none", cursor: "pointer", padding: 0 }}
-            className="footer-mini-link"
-            title="Press Ctrl+Shift+A to toggle console"
-          >
-            Console ⚡
-          </button>
+
         </div>
       </div>
 

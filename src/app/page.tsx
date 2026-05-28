@@ -223,6 +223,8 @@ export default function PodcastingPage() {
               marginTop: "6rem",
               marginBottom: "1rem",
               textAlign: "center",
+              animation: "heroFadeIn 1.4s ease-in-out forwards",
+              opacity: 0,
             }}
           >
             01
@@ -240,6 +242,8 @@ export default function PodcastingPage() {
               marginBottom: "1.5rem",
               textAlign: "center",
               textTransform: "uppercase",
+              animation: "heroFadeIn 1.8s ease-in-out forwards",
+              opacity: 0,
             }}
           >
             Podcasting
@@ -255,6 +259,8 @@ export default function PodcastingPage() {
               maxWidth: "650px",
               margin: "0 auto 3.5rem",
               textAlign: "center",
+              animation: "heroFadeIn 2.2s ease-in-out forwards",
+              opacity: 0,
             }}
           >
             Great guests deserve great distribution. End-to-end production that matches the caliber of your conversations.
@@ -267,6 +273,8 @@ export default function PodcastingPage() {
               maxWidth: "800px",
               borderTop: "1px solid var(--border)",
               paddingTop: "2.5rem",
+              animation: "heroFadeIn 2.6s ease-in-out forwards",
+              opacity: 0,
             }}
           >
             <div
@@ -681,6 +689,10 @@ export default function PodcastingPage() {
           .service-mobile-image-wrapper {
             display: block;
           }
+        }
+        @keyframes heroFadeIn {
+          from { opacity: 0; }
+          to { opacity: 1; }
         }
       `}</style>
     </ThemeProvider>
