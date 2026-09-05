@@ -1,0 +1,25 @@
+{
+  "status": "ready",
+  "originalFilePath": "videos\\ankit's_testimonial.mp4",
+  "provider": "mux",
+  "providerMetadata": {
+    "mux": {
+      "uploadId": "8a2cHW2NCtHZjrbFjmICKgAF01QlluHfCLWzlTuLndss",
+      "assetId": "s1KKMyfxfLNKby014XvgvfV0072hPNGh00cAVKC4SzHAwM",
+      "playbackId": "7QAcpP99eg4MLc3oppZJ3yP6HG02m1tUd5n1CI201f800Q"
+    }
+  },
+  "createdAt": 1788638447409,
+  "updatedAt": 1788638447409,
+  "size": 12231130,
+  "duration": 29.662967,
+  "aspectRatio": "16:9",
+  "sources": [
+    {
+      "src": "https://stream.mux.com/7QAcpP99eg4MLc3oppZJ3yP6HG02m1tUd5n1CI201f800Q.m3u8",
+      "type": "application/x-mpegURL"
+    }
+  ],
+  "poster": "https://image.mux.com/7QAcpP99eg4MLc3oppZJ3yP6HG02m1tUd5n1CI201f800Q/thumbnail.webp",
+  "thumbnailJpg": "https://image.mux.com/7QAcpP99eg4MLc3oppZJ3yP6HG02m1tUd5n1CI201f800Q/thumbnail.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "status": "ready",
+  "originalFilePath": "videos\\phoebe's_testimonial.mp4",
+  "provider": "mux",
+  "providerMetadata": {
+    "mux": {
+      "uploadId": "PrZAxPzV5MxD114zBQrYNjA301Gldb8dUH40002PfhB02RE",
+      "assetId": "rn02YAYyFDuZ49pMCB9NOfSnNxbTSpSwcwNgr02BfyZXY",
+      "playbackId": "nIW414nXsAR8TSj003JeHO2EJb2Sl7eAksidBqL01m6uc"
+    }
+  },
+  "createdAt": 1788638457237,
+  "updatedAt": 1788638457237,
+  "size": 14417889,
+  "duration": 66.6,
+  "aspectRatio": "30:53",
+  "sources": [
+    {
+      "src": "https://stream.mux.com/nIW414nXsAR8TSj003JeHO2EJb2Sl7eAksidBqL01m6uc.m3u8",
+      "type": "application/x-mpegURL"
+    }
+  ],
+  "poster": "https://image.mux.com/nIW414nXsAR8TSj003JeHO2EJb2Sl7eAksidBqL01m6uc/thumbnail.webp",
+  "thumbnailJpg": "https://image.mux.com/nIW414nXsAR8TSj003JeHO2EJb2Sl7eAksidBqL01m6uc/thumbnail.jpg"
+}

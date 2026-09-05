@@ -1,0 +1,25 @@
+{
+  "status": "ready",
+  "originalFilePath": "videos\\alec_burcham's_testimonial.mp4",
+  "provider": "mux",
+  "providerMetadata": {
+    "mux": {
+      "uploadId": "qWL1MlsmZXgWT01W834A2DGST3yKBF5z597zQkUok4Fg",
+      "assetId": "tjgpnyqlBuXnhDgQQ02d2dCqCmwETMtlBKmcg2TpJdGo",
+      "playbackId": "01ll3n2odudQZ6kN02NGkOVp4VrHbFVRySJmMksiHIUkk"
+    }
+  },
+  "createdAt": 1788638437103,
+  "updatedAt": 1788638437103,
+  "size": 22029628,
+  "duration": 110.2,
+  "aspectRatio": "1:1",
+  "sources": [
+    {
+      "src": "https://stream.mux.com/01ll3n2odudQZ6kN02NGkOVp4VrHbFVRySJmMksiHIUkk.m3u8",
+      "type": "application/x-mpegURL"
+    }
+  ],
+  "poster": "https://image.mux.com/01ll3n2odudQZ6kN02NGkOVp4VrHbFVRySJmMksiHIUkk/thumbnail.webp",
+  "thumbnailJpg": "https://image.mux.com/01ll3n2odudQZ6kN02NGkOVp4VrHbFVRySJmMksiHIUkk/thumbnail.jpg"
+}
